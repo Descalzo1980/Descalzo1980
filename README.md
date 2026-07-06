@@ -6,15 +6,7 @@
 
 📱 Работаю с фокусом на UX и техническое качество
 
----
 
-### 🚀 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Descalzo1980&layout=compact)
-
----
-
-### 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Descalzo1980&show_icons=true)
 
 ---
 
